@@ -1,0 +1,8 @@
+{
+  "name": "NexaMod",
+  "description": "Ultra-premium futuristic motorcycle modification e-commerce platform with 3D product previews, neon aesthetics, and advanced admin management.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
